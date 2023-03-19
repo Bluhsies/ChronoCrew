@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Assets/Scenes/Menus/Menu.unity
+    guid: 4cf6d9e23814bae43b7f4d7a5aef8f72
+  - enabled: 1
+    path: Assets/Assets/Scenes/Menus/SettingsMenu.unity
+    guid: 853dcc9070db41e47826db63f66199cd
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes1/Map1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player1Win.unity
+    guid: 1406de346cae31046869e44edf7988aa
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player2Win.unity
+    guid: 49a9d9b5e8aaeaa4aabbbc7d1e792285
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes2/Map2.unity
+    guid: 9311b14fa443fd345b9e13c25d03131c
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player1Win2.unity
+    guid: e634c192d3fe6ed41a70a329a694c0f7
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player2Win2.unity
+    guid: 934d0761c6149244c8382e3a3cc93d56
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes3/Map3.unity
+    guid: 8328d8b35eba58542b3298708b2680ca
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes4/Player1Win4.unity
+    guid: bfdc5f22df741e34eb692fab41d480f0
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes4/Player2Win4.unity
+    guid: 81cd9bbb418b7514b9c68f150005a97a
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes4/Map4.unity
+    guid: 409f6d52ad8177f4982251f83339eb75
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player1Win4.unity
+    guid: 059f9745f3bba9141985728738b7b5c4
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player2Win4.unity
+    guid: 600fda62871e8574197affa9e8bc3172
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes5/Map5.unity
+    guid: 05a190cc4f37cdb4191ae31a17806444
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player2Win6.unity
+    guid: e0263b4cd3db46449800173f67b701bc
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player1Win6.unity
+    guid: 2665421eca398a5498306b1353b7afce
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player2Win5.unity
+    guid: 442ede8adb5527d4fa30052b2f467a3e
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player1Win5.unity
+    guid: b0718156dc29b844aa8e5f37194a7cfc
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player1Win3.unity
+    guid: ec7f9e277039a124282ab924159141dd
+  - enabled: 1
+    path: Assets/Assets/Scenes/WinScenes/Player2Win3.unity
+    guid: d764ea18006175a46bef0fa59ba745d4
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes6/Map6.unity
+    guid: 1a6fca4243794fd4487f30119b3c3184
+  m_configObjects: {}
